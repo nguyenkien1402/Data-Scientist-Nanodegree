@@ -1,5 +1,5 @@
 # Data-Scientist-Nanodegree
-Contain the materials and project I've done in Data Scientist Nanodegree from Udacity
+Contain the materials and projects I've done in Data Scientist Nanodegree from Udacity
 ![Certificate](Trung_Kien_Nguyen_Certificate.png)
 
 Project Lists:
