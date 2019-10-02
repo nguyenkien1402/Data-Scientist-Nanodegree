@@ -1,6 +1,6 @@
 # Data-Scientist-Nanodegree
 Contain the materials and project I've done in Data Scientist Nanodegree from Udacity
-![Certificate](DSND-Certificate.png)
+![Certificate](Trung_Kien_Nguyen_Certificate.png)
 
 Project Lists:
 
